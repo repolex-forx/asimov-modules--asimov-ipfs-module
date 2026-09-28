@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-ipfs-module",
+  "versions": [
+    {
+      "commit": "1993a4e83c00a38bc339e5d05b5a103b1fd918f0",
+      "tag": "0.1.1",
+      "parsed_at": "2026-09-28T07:19:14.044115+00:00"
+    }
+  ]
+}
